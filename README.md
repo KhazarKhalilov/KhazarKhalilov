@@ -68,7 +68,7 @@ I enjoy working on **real-world inspired projects** (Airbnb, Spotify, Meta-style
 
 ## 📫 Connect With Me
 - GitHub: **@KhazarKhalilov**
-- Email: `khazar@example.com` (replace if needed)
+- Email: `khazarkhalilov777@gmail.com` 
 
 ---
 
