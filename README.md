@@ -1,6 +1,6 @@
 # Hi, I'm Khazar Khalilov 👋
 
-I'm a **Software Engineering student** and aspiring **Frontend / Full-Stack Developer**, focused on building clean, scalable web applications using modern technologies.
+I'm a **Computer Science student** and aspiring **Frontend / Full-Stack Developer**, focused on building clean, scalable web applications using modern technologies.
 
 I enjoy working on **real-world inspired projects** (Airbnb, Spotify, Meta-style platforms), learning best practices in **React architecture**, and improving UI/UX with thoughtful design systems.
 
