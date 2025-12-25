@@ -1,77 +1,79 @@
 # Hi, I'm Khazar Khalilov 👋
 
-I'm a **Computer Science student** and aspiring **Frontend / Full-Stack Developer**, focused on building clean, scalable web applications using modern technologies.
+I'm a **Computer Science student** and aspiring **Frontend Developer**, focused on building **scalable, real-world web applications** with modern frontend technologies.
 
-I enjoy working on **real-world inspired projects** (Airbnb, Spotify, Meta-style platforms), learning best practices in **React architecture**, and improving UI/UX with thoughtful design systems.
+I mainly work with **React, TypeScript, and Next.js**, and I enjoy turning complex requirements into clean, user-friendly interfaces inspired by platforms like **Airbnb** and **Spotify**.
 
 ---
 
 ## 🚀 What I Do
-- Build modern web apps using **React**, **JavaScript**, and **Vite**
-- Design clean, reusable **component-based architectures**
-- Implement routing, state management, and data-driven UIs
-- Create **Airbnb-style** and **Spotify-style** interfaces
-- Write readable, maintainable code with a focus on clarity
+- Build modern, responsive web applications using **React & TypeScript**
+- Design reusable, **component-based architectures**
+- Implement routing, data fetching, and state management
+- Develop **real-world inspired UIs** (Airbnb-style, Spotify-style)
+- Write clean, readable, and maintainable code
 
 ---
 
 ## 🛠️ Tech Stack
-**Frontend**
-- React
-- JavaScript (ES6+)
-- HTML5 / CSS3
-- React Router
-- Vite
 
-**Styling**
-- CSS (Airbnb-style UI)
-- Responsive layouts
-- Component-based styling
+### **Frontend**
+- React  
+- TypeScript / JavaScript (ES6+)  
+- Next.js (App Router – learning & using)  
+- HTML5, CSS3, Tailwind CSS  
 
-**Tools**
-- Git & GitHub
-- VS Code
-- npm
+### **Data & APIs**
+- REST APIs  
+- Axios, TanStack Query (learning)  
+
+### **UI / UX**
+- Responsive design  
+- Component-driven UI  
+- Design-system thinking  
+
+### **Tools**
+- Git & GitHub  
+- npm  
+- VS Code  
 
 ---
 
 ## 📌 Featured Projects
 - **Airbnb Experience Platform**  
-  Modern React application with routing, property listings, booking flow, and Airbnb-inspired UI.
+  Scalable React application with routing, dynamic listings, booking flow, and clean architecture.
 
 - **Spotify Design System**  
-  Component-driven UI with reusable styling patterns.
+  Component-based UI with reusable styles and layout patterns.
 
-- **Meta React Foundations**  
-  Clean React setup following best practices for scalability.
+- **Type-Safe React / Next.js Projects**  
+  Focused on maintainability, clear structure, and modern best practices.
 
-> More projects coming as I continue learning and building.
+> More projects coming as I continue building and refining my skills.
 
 ---
 
 ## 📚 Currently Learning
-- Advanced React patterns
-- State management strategies
-- Clean frontend architecture
-- UI/UX design systems
-- Preparing for real-world software engineering roles
+- Advanced React & Next.js patterns  
+- State management and data-fetching strategies  
+- Frontend architecture & scalability  
+- UI/UX design systems  
+- Real-world frontend engineering workflows  
 
 ---
 
 ## 🌍 About Me
-- Software Engineering student
-- Interested in **Frontend, Full-Stack, and Product Engineering**
-- Enjoy structured learning and hands-on projects
-- Always improving, one project at a time
+- Software Engineering student  
+- Focused on **Frontend & Full-Stack development**
+- Enjoy structured learning and hands-on projects  
+- Always improving, one project at a time  
 
 ---
 
 ## 📫 Connect With Me
 - GitHub: **@KhazarKhalilov**
-- Email: `khazarkhalilov777@gmail.com` 
+- Email: `khazarkhalilov777@gmail.com`
 
 ---
 
 ⭐ Feel free to explore my repositories and follow my journey.
-
-
